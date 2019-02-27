@@ -14,6 +14,7 @@ import numpy as np
 # b = a+1
 
 # print(b)
+# print('is is {}'.format(b))
 
 # def timeit(method):
 #     def timed(*args, **kw):
