@@ -1,0 +1,7 @@
+Libraries Used
+
+1) Gtts==1.0
+2) pYAUDIO==2.6
+3) pYTTSX3==1.0.9
+4) Speech_recognition
+5) playsound
