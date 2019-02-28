@@ -11,7 +11,9 @@ import numpy as np
 #
 # pd_dataset = pd.DataFrame({'a': a})
 #
-# b = a+1
+# b = x+1
+# b = a
+# print(b)
 
 # print(b)
 # print('is is {}'.format(b))
